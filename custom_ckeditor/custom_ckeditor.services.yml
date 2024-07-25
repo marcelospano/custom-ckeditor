@@ -1,0 +1,5 @@
+services:
+  custom_ckeditor.plugin_definition.media_embed:
+    class: Drupal\custom_ckeditor\Plugin\CKEditor5Plugin\MediaEmbed
+    tags:
+      - { name: ckeditor5.plugin }

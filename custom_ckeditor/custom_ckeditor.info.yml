@@ -1,0 +1,5 @@
+name: 'Custom Ckeditor'
+type: module
+description: 'Adiciona novos botões ao Ckeditor'
+core_version_requirement: ^10
+package: 'Custom'
